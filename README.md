@@ -1,7 +1,8 @@
 <!-- Header Image -->
-![Welcome Banner](https://user-images.githubusercontent.com/91496156/153718303-316c5bd2-c289-4d02-b147-92b55b0e463a.gif)
+![Welcome](https://user-images.githubusercontent.com/91496156/153718303-316c5bd2-c289-4d02-b147-92b55b0e463a.gif)
 
 # 🚀 Hi, I'm **Mustafa Raheel!** 👋  
+
 🔹 **Aspiring Fullstack Developer | MERN Stack Enthusiast | Passionate about Web & App Development**  
 
 ---
@@ -12,6 +13,13 @@
 - ⚡ Exploring **Next.js, TypeScript, Sanity CMS, and advanced UI libraries**.  
 - 🎯 Looking to collaborate on **innovative projects** in **MERN stack & Web3.0**.  
 - 📧 **Reach me at**: [mustafaraheel26@gmail.com](mailto:mustafaraheel26@gmail.com)  
+
+---
+
+## 🔥 Profile Views Counter  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MustafaRaheel26&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="Profile Views" />
+</p>
 
 ---
 
