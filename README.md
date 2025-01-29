@@ -60,12 +60,11 @@
 
 ## 📡 Connect With Me  
 
-<p align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-raheel-7b45b8286/).  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mustafae_here)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Mustafa-Raheel/pfbid02oQ7RNBqco3X7Ucirp3fzvxdnFVeh53SsN42dwtw3nAgjLF1aPJByupESpyz4NLkRl/)  
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/mustafaraheel26)  
-</p>
+
 ---
 
 ## 🔥 GitHub Stats  
