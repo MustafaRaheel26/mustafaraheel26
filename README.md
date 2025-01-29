@@ -3,22 +3,23 @@
 
 # 🚀 Hi, I'm **Mustafa Raheel!** 👋  
 
-🔹 **Aspiring Fullstack Developer | MERN Stack Enthusiast | Passionate about Web & App Development**  
+🔹 **Aspiring Mern Stack Developer | AI Enthusiast | Passionate about Web & App Development**  
 
 ---
 
 ## 📖 About Me  
-- 👀 Passionate about **Web & App Development** and creating **scalable applications**.  
-- 🌱 Currently **learning Fullstack Development** at **SMIT Institute**.  
+- 👀 Passionate about **Web & App Development** and creating **Scalable applications**.
+- 🌱 Learned **Mern Stack Development** at **SMIT by Saylani**.  
+- 🌱 Currently **learning AI, Web3 & Metaverse** at **Governor Initiative of AI**.  
 - ⚡ Exploring **Next.js, TypeScript, Sanity CMS, and advanced UI libraries**.  
-- 🎯 Looking to collaborate on **innovative projects** in **MERN stack & Web3.0**.  
+- 🎯 Looking to collaborate on **Innovative projects** in **MERN stack & Web3.0**.  
 - 📧 **Reach me at**: [mustafaraheel26@gmail.com](mailto:mustafaraheel26@gmail.com)  
 
 ---
 
-## 🔥 Profile Views Counter  
+## 🔥 Profile Views: 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MustafaRaheel26&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="Profile Views" />
+  <img src="[https://camo.githubusercontent.com/d0f2be46745b46377d739851d6d4395363974e881faa799b054b0688085b39b1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736865687a612d64266c6162656c3d50726f66696c65253230766965777326636f6c6f723d313165623131267374796c653d666f722d7468652d6261646765]" alt="Profile Views" />
 </p>
 
 ---
@@ -59,10 +60,10 @@
 
 ## 📡 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link-here)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-link-here)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-link-here)  
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-raheel-7b45b8286/).  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mustafae_here)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Mustafa-Raheel/pfbid02oQ7RNBqco3X7Ucirp3fzvxdnFVeh53SsN42dwtw3nAgjLF1aPJByupESpyz4NLkRl/)  
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/mustafaraheel26)  
 
 ---
 
@@ -74,8 +75,10 @@
 
 ---
 
-## 🚀 Check Out My Latest Projects  
-![Project Demo](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)  
+## 🚀 Check Out My Latest Projects 
+<p align="center">
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
+</p>
 
 ---
 
