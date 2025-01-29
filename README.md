@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![Welcome](https://user-images.githubusercontent.com/91496156/153718303-316c5bd2-c289-4d02-b147-92b55b0e463a.gif)
+![Welcome](https://github.com/MustafaRaheel26/mustafaraheel26/blob/main/background.png)
 
 # 🚀 Hi, I'm **Mustafa Raheel!** 👋  
 
