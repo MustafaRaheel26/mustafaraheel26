@@ -19,7 +19,7 @@
 
 ## 🔥 Profile Views: 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MustafaRaheel26&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MustafaRaheel26&color=blue&style=flat-square"/>  
 </p>
 
 ---
