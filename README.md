@@ -19,7 +19,7 @@
 
 ## 🔥 Profile Views: 
 <p align="left">
-  <img src="[https://camo.githubusercontent.com/d0f2be46745b46377d739851d6d4395363974e881faa799b054b0688085b39b1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736865687a612d64266c6162656c3d50726f66696c65253230766965777326636f6c6f723d313165623131267374796c653d666f722d7468652d6261646765]" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MustafaRaheel26&label=PROFILE+VIEWS&color=blueviolet&style=plastic" alt="Profile Views" />
 </p>
 
 ---
@@ -60,11 +60,12 @@
 
 ## 📡 Connect With Me  
 
+<p align="left">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-raheel-7b45b8286/).  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mustafae_here)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Mustafa-Raheel/pfbid02oQ7RNBqco3X7Ucirp3fzvxdnFVeh53SsN42dwtw3nAgjLF1aPJByupESpyz4NLkRl/)  
 [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/mustafaraheel26)  
-
+</p>
 ---
 
 ## 🔥 GitHub Stats  
@@ -75,12 +76,8 @@
 
 ---
 
-## 🚀 Check Out My Latest Projects 
+## 🌟 **Let’s Build Together!**  
+💡 I’m open to collaborations and love discussing new ideas! Let’s create something amazing together. 🚀  
 <p align="center">
 <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif"/>
 </p>
-
----
-
-## 🌟 **Let’s Build Together!**  
-💡 I’m open to collaborations and love discussing new ideas! Let’s create something amazing together. 🚀  
