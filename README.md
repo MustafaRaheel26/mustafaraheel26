@@ -12,7 +12,7 @@
 - 🌱 Learned **Mern Stack Development** at **SMIT by Saylani**.  
 - 🌱 Currently **learning AI, Web3 & Metaverse** at **Governor Initiative of AI**.  
 - ⚡ Exploring **Next.js, TypeScript, Sanity CMS, and advanced UI libraries**.  
-- 🎯 Looking to collaborate on **Innovative projects** in **MERN stack & Web3.0**.  
+- 🎯 Looking to collaborate on **Innovative projects** in **Python & Web 3.0**.  
 - 📧 **Reach me at**: [mustafaraheel26@gmail.com](mailto:mustafaraheel26@gmail.com)  
 
 ---
